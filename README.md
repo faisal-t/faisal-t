@@ -14,4 +14,11 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I Love Coffee and learn the latest technology
 
-<img src = "https://github-readme-stats.vercel.app/api?username=faisal-t&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919"></img>
+### Github Statistic
+<p align="left">
+<a href="https://github.com/faisal-t">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisal-t&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisal-t&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
