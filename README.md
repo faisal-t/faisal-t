@@ -1,17 +1,6 @@
-<!-- ![My card name](https://cardivo.vercel.app/api?name=Mochammad%20Faizal%20Mahromi&description=A%20Programer%20Bucin&image=https://avatars.githubusercontent.com/u/54567065?v=4&backgroundColor=%23293B5F&instagram=faisal_mahromi&linkedin=Mochammad%20Faizal%20Mahromi&github=faisal-t&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3) -->
-
-<img height="600cm" src="https://cardivo.vercel.app/api?name=Mochammad%20Faizal%20Mahromi&description=A%20Programer%20Bucin&image=https://avatars.githubusercontent.com/u/54567065?v=4&backgroundColor=%23293B5F&instagram=faisal_mahromi&linkedin=Mochammad%20Faizal%20Mahromi&github=faisal-t&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3"/>
+![My card name](https://cardivo.vercel.app/api?name=Mochammad%20Faizal%20Mahromi&description=A%20Programer%20Bucin&image=https://avatars.githubusercontent.com/u/54567065?v=4&backgroundColor=%23293B5F&instagram=faisal_mahromi&linkedin=Mochammad%20Faizal%20Mahromi&github=faisal-t&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 ### 안녕하세요 I’m Mochammad Faisal Mahromi  👋
-
-
-<!-- **faisal-t/faisal-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started: -->
-
-
 
 - 🔭 I’m currently working on Mobile Apps Development and Some Web App
 - 🌱 I’m currently learning Flutter,Kotlin,Java ,JavaScript and Laravel
