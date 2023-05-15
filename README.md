@@ -14,6 +14,7 @@
 - ⚡ Fun fact: I Love Coffee and learn the latest technology
 
 ### Github Statistic
+![Profile views](https://komarev.com/ghpvc/?username=faisal-t&color=blueviolet&style=flat)
 <p align="left">
 <a href="https://github.com/faisal-t">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisal-t&show_icons=true&include_all_commits=true&count_private=true"/>
