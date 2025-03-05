@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on Youtube or any development community
 - 🤔 I’m looking for help with Some Code 
 - 💬 Ask me about any Tech related stuff
-- 📫 How to reach me: [Instagram - @faisal_mahromi](https://www.instagram.com/faisal_mahromi/) [Email - faizalmahromi35@gmail.com]
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mochammad-faizal-mahromi-ba15191b9/)
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I Love Coffee and learn the latest technology
 
